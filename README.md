@@ -1,16 +1,14 @@
-### Hi there 👋
+### santos i guess
 
-<!--
-**santos-i-guess/santos-i-guess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Howdy. I'm Santos, I guess.
+---
 
-Here are some ideas to get you started:
+🗺️ From: TACOMA, WA
+🏳️‍🌈 Pronouns: HE/HIM, GAY
+📫 Email (for inquiries): santos42069solis@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+☕ JAVA
+🌟 XML
+
+[Discord Server](https://discord.gg/3j5FrucJ2d)
