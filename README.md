@@ -1,9 +1,8 @@
 ### santos i guess
 
 Howdy. I'm Santos, I guess.
-
+<br>Minecraft Plugin Developer, and best person in the world
 <br>
-
 <br>🗺️ From: TACOMA, WA
 <br>🏳️‍🌈 Pronouns: HE/HIM, GAY
 <br>📫 Email (for inquiries): santos42069solis@gmail.com
